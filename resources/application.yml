@@ -1,0 +1,7 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5432/bootdata
+    username: postgres
+    password: '@Ndevandeva1'
+    pool-size: 30
+
